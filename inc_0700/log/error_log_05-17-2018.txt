@@ -1,0 +1,20 @@
+[May-17-2018 19:09:56] Undefined property: stdClass::$items in /home/jesher35/jesseh-codes.com/foodtruck3/index.php on line 65
+[May-17-2018 19:09:56] Invalid argument supplied for foreach() in /home/jesher35/jesseh-codes.com/foodtruck3/index.php on line 65
+[May-17-2018 19:09:56] Undefined property: stdClass::$items in /home/jesher35/jesseh-codes.com/foodtruck3/index.php on line 92
+[May-17-2018 19:09:56] Invalid argument supplied for foreach() in /home/jesher35/jesseh-codes.com/foodtruck3/index.php on line 92
+[May-17-2018 19:09:56] Undefined property: stdClass::$items in /home/jesher35/jesseh-codes.com/foodtruck3/index.php on line 106
+[May-17-2018 19:09:56] Invalid argument supplied for foreach() in /home/jesher35/jesseh-codes.com/foodtruck3/index.php on line 106
+[May-17-2018 19:10:11] Undefined index: Food1 in /home/jesher35/jesseh-codes.com/foodtruck3/index.php on line 140
+[May-17-2018 19:10:11] Undefined index: Food2 in /home/jesher35/jesseh-codes.com/foodtruck3/index.php on line 141
+[May-17-2018 19:10:11] Undefined index: Food3 in /home/jesher35/jesseh-codes.com/foodtruck3/index.php on line 142
+[May-17-2018 19:10:11] Undefined property: stdClass::$items in /home/jesher35/jesseh-codes.com/foodtruck3/index.php on line 161
+[May-17-2018 19:10:11] Invalid argument supplied for foreach() in /home/jesher35/jesseh-codes.com/foodtruck3/index.php on line 161
+[May-17-2018 19:10:11] Undefined variable: p1 in /home/jesher35/jesseh-codes.com/foodtruck3/index.php on line 204
+[May-17-2018 19:10:11] Undefined variable: p2 in /home/jesher35/jesseh-codes.com/foodtruck3/index.php on line 215
+[May-17-2018 19:10:11] Undefined variable: p3 in /home/jesher35/jesseh-codes.com/foodtruck3/index.php on line 226
+[May-17-2018 19:21:22] Undefined index: Food1 in /home/jesher35/jesseh-codes.com/foodtruck3/index.php on line 141
+[May-17-2018 19:21:22] Undefined index: Food2 in /home/jesher35/jesseh-codes.com/foodtruck3/index.php on line 142
+[May-17-2018 19:21:22] Undefined index: Food3 in /home/jesher35/jesseh-codes.com/foodtruck3/index.php on line 143
+[May-17-2018 19:21:22] Undefined variable: p1 in /home/jesher35/jesseh-codes.com/foodtruck3/index.php on line 205
+[May-17-2018 19:21:22] Undefined variable: p2 in /home/jesher35/jesseh-codes.com/foodtruck3/index.php on line 216
+[May-17-2018 19:21:22] Undefined variable: p3 in /home/jesher35/jesseh-codes.com/foodtruck3/index.php on line 227

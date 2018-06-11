@@ -1,0 +1,14 @@
+[Jun-10-2018 17:59:09] Table 'central_jh_db.p4_surveys' doesn't exist in /home/jesher35/jesseh-codes.com/p4-xml/inc_0700/Pager_inc.php on line 140
+[Jun-10-2018 18:04:50] Table 'central_jh_db.p4_surveys' doesn't exist in /home/jesher35/jesseh-codes.com/p4-xml/inc_0700/Pager_inc.php on line 140
+[Jun-10-2018 18:05:47] Table 'central_jh_db.p4_surveys' doesn't exist in /home/jesher35/jesseh-codes.com/p4-xml/inc_0700/Pager_inc.php on line 140
+[Jun-10-2018 18:15:50] Table 'central_jh_db.p4_Admin' doesn't exist in /home/jesher35/jesseh-codes.com/p4-xml/inc_0700/Pager_inc.php on line 140
+[Jun-10-2018 18:23:53] Unknown column 's.AdminID' in 'where clause' in /home/jesher35/jesseh-codes.com/p4-xml/inc_0700/Pager_inc.php on line 140
+[Jun-10-2018 18:30:37] Unknown column 'f.AdminID' in 'where clause' in /home/jesher35/jesseh-codes.com/p4-xml/inc_0700/Pager_inc.php on line 140
+[Jun-10-2018 18:32:58] Undefined index: AdminName in /home/jesher35/jesseh-codes.com/p4-xml/news/index.php on line 72
+[Jun-10-2018 18:32:58] Undefined index: DateAdded in /home/jesher35/jesseh-codes.com/p4-xml/news/index.php on line 80
+[Jun-10-2018 18:35:18] Undefined index: DateAdded in /home/jesher35/jesseh-codes.com/p4-xml/news/index.php on line 80
+[Jun-10-2018 21:13:43] Undefined index: URL in /home/jesher35/jesseh-codes.com/p4-xml/health/index.php on line 71
+[Jun-10-2018 21:13:43] Undefined index: Category in /home/jesher35/jesseh-codes.com/p4-xml/health/index.php on line 71
+[Jun-10-2018 21:13:43] Undefined index: URL in /home/jesher35/jesseh-codes.com/p4-xml/health/index.php on line 73
+[Jun-10-2018 21:13:43] Undefined index: Description in /home/jesher35/jesseh-codes.com/p4-xml/health/index.php on line 78
+[Jun-10-2018 21:13:43] Undefined index: PubDate in /home/jesher35/jesseh-codes.com/p4-xml/health/index.php on line 81
