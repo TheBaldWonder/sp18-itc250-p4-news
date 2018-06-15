@@ -70,8 +70,8 @@ $result = mysqli_query(IDB::conn(),$sql) or die(trigger_error(mysqli_error(IDB::
 if(mysqli_num_rows($result) > 0)
 {#records exist - process
 	
-	if($myPager->showTotal()==1){$itemz = "article";}else{$itemz = "articles";}  //deal with plural
-	echo '<div align="center">We have ' . $myPager->showTotal() . ' ' . $itemz . '!</div>';
+	// if($myPager->showTotal()==1){$itemz = "article";}else{$itemz = "articles";}  //deal with plural
+	// echo '<div align="center">We have ' . $myPager->showTotal() . ' ' . $itemz . '!</div>';
 	
 	// echo '
 		
