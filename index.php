@@ -43,7 +43,7 @@ date_format(s.PubDate, '%W %D %M %Y %H:%i') 'DateAdded' FROM "
 $config->titleTag = 'RSS News Feeds';
 
 #Fills <meta> tags.  Currently we're adding to the existing meta tags in config_inc.php
-$config->metaDescription = 'RSS News Feeds' . $config->metaDescription;
+$config->metaDescription = 'RSS News Feeds ' . $config->metaDescription;
 $config->metaKeywords = 'RSS,XML,PHP,Fun,'. $config->metaKeywords;
 
 //adds font awesome icons for arrows on pager
@@ -70,8 +70,8 @@ $result = mysqli_query(IDB::conn(),$sql) or die(trigger_error(mysqli_error(IDB::
 if(mysqli_num_rows($result) > 0)
 {#records exist - process
 	
-	// if($myPager->showTotal()==1){$itemz = "article";}else{$itemz = "articles";}  //deal with plural
-	// echo '<div align="center">We have ' . $myPager->showTotal() . ' ' . $itemz . '!</div>';
+	if($myPager->showTotal()==1){$itemz = "article";}else{$itemz = "articles";}  //deal with plural
+	echo '<div align="center">We have ' . $myPager->showTotal() . ' ' . $itemz . '!</div>';
 	
 	// echo '
 		
@@ -82,7 +82,7 @@ if(mysqli_num_rows($result) > 0)
 	{# process each row
 		echo '
 			<div class="list-group" style="margin: auto; width: 50%;">
-				<a href="' . VIRTUAL_PATH . dbOut($row['Category']) . '/index.php?id=' . (int)$row['FeedID'] . '" class="list-group-item list-group-item-action flex-column align-items-start">
+				<a href="' . VIRTUAL_PATH . '/feed_view.php?id=' . (int)$row['FeedID'] . '" class="list-group-item list-group-item-action flex-column align-items-start">
 					<div class="d-flex w-100 justify-content-between">
 						<h5 class="mb-1">' . dbOut($row['Title']) . '</h5>
 						<small>' . dbOut($row['Category']) . '</small>
@@ -97,7 +97,7 @@ if(mysqli_num_rows($result) > 0)
 
 	echo $myPager->showNAV(); # show paging nav, only if enough records	 
 }else{#no records
-    echo "<div align=center>There are currently no articles.</div>";	
+    echo "<div align=center>There are currently no feeds.</div>";	
 }
 @mysqli_free_result($result);
 

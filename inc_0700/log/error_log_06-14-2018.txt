@@ -1,0 +1,11 @@
+[Jun-14-2018 2:09:49] Undefined index: PubDate in /home/jesher35/jesseh-codes.com/p4-xml/index.php on line 97
+[Jun-14-2018 2:09:49] Undefined index: PubDate in /home/jesher35/jesseh-codes.com/p4-xml/index.php on line 97
+[Jun-14-2018 2:09:49] Undefined index: PubDate in /home/jesher35/jesseh-codes.com/p4-xml/index.php on line 97
+[Jun-14-2018 2:09:49] Undefined index: PubDate in /home/jesher35/jesseh-codes.com/p4-xml/index.php on line 97
+[Jun-14-2018 2:09:49] Undefined index: PubDate in /home/jesher35/jesseh-codes.com/p4-xml/index.php on line 97
+[Jun-14-2018 2:09:49] Undefined index: PubDate in /home/jesher35/jesseh-codes.com/p4-xml/index.php on line 97
+[Jun-14-2018 2:09:49] Undefined index: PubDate in /home/jesher35/jesseh-codes.com/p4-xml/index.php on line 97
+[Jun-14-2018 2:09:49] Undefined index: PubDate in /home/jesher35/jesseh-codes.com/p4-xml/index.php on line 97
+[Jun-14-2018 2:09:49] Undefined index: PubDate in /home/jesher35/jesseh-codes.com/p4-xml/index.php on line 97
+[Jun-14-2018 2:13:40] Table 'central_jh_db.p4_surveys' doesn't exist in /home/jesher35/jesseh-codes.com/p4-xml/surveys/SurveySez/Survey.php on line 59
+[Jun-14-2018 2:20:44] Table 'central_jh_db.p4_surveys' doesn't exist in /home/jesher35/jesseh-codes.com/p4-xml/surveys/SurveySez/Survey.php on line 59

@@ -1,0 +1,8 @@
+[Jun-12-2018 7:28:25] Undefined index: Privilege in /home/jesher35/jesseh-codes.com/p4-xml/inc_0700/config_inc.php on line 89
+[Jun-12-2018 7:28:25] Undefined index: FirstName in /home/jesher35/jesseh-codes.com/p4-xml/inc_0700/config_inc.php on line 89
+[Jun-12-2018 7:28:33] Undefined index: Privilege in /home/jesher35/jesseh-codes.com/p4-xml/inc_0700/config_inc.php on line 89
+[Jun-12-2018 7:28:33] Undefined index: FirstName in /home/jesher35/jesseh-codes.com/p4-xml/inc_0700/config_inc.php on line 89
+[Jun-12-2018 13:05:28] Undefined index: Privilege in /home/jesher35/jesseh-codes.com/p4-xml/inc_0700/config_inc.php on line 89
+[Jun-12-2018 13:05:28] Undefined index: FirstName in /home/jesher35/jesseh-codes.com/p4-xml/inc_0700/config_inc.php on line 89
+[Jun-12-2018 16:16:43] Undefined index: Privilege in /home/jesher35/jesseh-codes.com/p4-xml/inc_0700/config_inc.php on line 89
+[Jun-12-2018 16:16:43] Undefined index: FirstName in /home/jesher35/jesseh-codes.com/p4-xml/inc_0700/config_inc.php on line 89

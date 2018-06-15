@@ -74,7 +74,7 @@ include INCLUDE_PATH . 'MyAutoLoader.php'; #Allows multiple versions of AutoLoad
 $config->theme = 'Bootswatch'; #default theme (header/footer combo) see 'Themes' folder for others and info
 $config->style = 'lux.css'; #currently only Bootswatch Theme uses style to switch look & feel
 $config->slogan = 'Latest Stories Here';
-$config->metaDescription = 'Welcome to our xxx website.';
+$config->metaDescription = 'Welcome to our feeds!';
 $config->metaKeywords = 'news,database,mysql,php';
 $config->metaRobots = 'no index, no follow';
 $config->banner = 'News'; #goes inside header - can be overwritten
@@ -97,10 +97,11 @@ change it on a page by page basis by altering config settings inside individual 
 #add Admin link to nav1 if not Bootswatch theme
 if(startSession() && isset($_SESSION['AdminID']) && $config->theme != 'Bootswatch'){$nav1[$config->adminDashboard] = "ADMIN~Go to Administrative Page";}#admin page added to link only if logged in
 #nav1 is the main navigation - tilde separator below splits text of link from title attribute
-$nav1['index.php'] = "HOME~A model for building largely static web pages";
-$nav1['sports/'] = "SPORTS~The entrance to our Sports Section";
-$nav1['health/'] = "HEALTH~The entrance to our Health Section";
-$nav1['tech/'] = "TECH~The entrance to our Tech Section";
+$nav1['index.php'] = "FEEDS~A space to get the latest news";
+// $nav1['sports/'] = "SPORTS~The entrance to our Sports Section";
+// $nav1['Health/'] = "HEALTH~The entrance to our Health Section";
+// $nav1['Tech/'] = "TECH~The entrance to our Tech Section";
+
 // $nav1['demo/demo_shared.php'] = "SPORTS~A demo page for building mysqli shared connection based applications.";
 // $nav1['demo/demo_pdo.php'] = "HEALTH~A demo page for building PDO connection based applications.";
 // $nav1['demo/demo_contact.php'] = "TECH~A demo for building postback forms";
